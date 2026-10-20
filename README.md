@@ -2,6 +2,7 @@
 **Gobernanza de la identidad digital e interoperabilidad biométrica en la prevención de la suplantación de identidad en entidades públicas de Lima Metropolitana, 2027**
 
 ## 🌳 Árbol por variables
+```
 Doctorado-UNI
 ├── V1. Gobernanza de la identidad digital
 │   ├── keycloak · kratos · hydra (gestión de identidad y acceso)
@@ -18,3 +19,4 @@ Doctorado-UNI
     ├── insightface · deepface (reconocimiento facial)
     ├── Silent-Face-Anti-Spoofing (detección de vida)
     └── masvs (seguridad en apps móviles)
+```
